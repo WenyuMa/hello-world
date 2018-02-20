@@ -1,2 +1,5 @@
 # hello-world
-Just a new repository
+
+hello! human
+It's nice to talk like this.
+I like chocolate!
